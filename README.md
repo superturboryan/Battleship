@@ -1,7 +1,7 @@
 # Battleship
 Completed as part of Concordia's Comp249 (advanced Object-Oriented-Programming) course in the fall of 2018.
 
-### Instructions: 
+#### Instructions: 
 
 The purpose of this assignment is to help you practice/review arrays of objects and objet oriented design.
 
