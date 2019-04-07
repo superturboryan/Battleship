@@ -1,5 +1,5 @@
 # Battleship
-Completed as part of Concordia's Comp249 (advanced Object-Oriented-Programming) course in the fall of 2018.
+Completed as part of Concordia's Comp249 (advanced Object-Oriented-Programming) course in Fall 2018 with Dr. Aiman Hanna.
 
 #### Instructions: 
 
